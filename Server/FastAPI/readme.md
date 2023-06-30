@@ -1,5 +1,5 @@
-routes :- <br\>
-    - "/retrieve_all_items_details" : To fetch list of all items.<br\>
+routes :-
+- "/retrieve_all_items_details" : To fetch list of all items.<br\>
         Parameters:<br\>
             skip : <br\>
             limit :<br\>
