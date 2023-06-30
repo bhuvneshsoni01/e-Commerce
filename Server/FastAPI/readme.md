@@ -1,7 +1,7 @@
 routes:-
 - "/retrieve_all_items_details": To fetch a list of all items.\
         ...Parameters:\
-                ...skip :\
+                ..skip :\
                 ...limit :
 - "/add_new_item": To add a new item.\
         * Parameters:\
